@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java/Spring boot**
 
-- 👯 I’m looking to collaborate on [48Team](48team.space)
+- 👯 I’m looking to collaborate on [48Team](48team)
 
 - 🤝 I’m looking for help with [BidBary](https://github.com/senanqulamov/bidbary)
 
