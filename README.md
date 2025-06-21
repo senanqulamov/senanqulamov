@@ -5,8 +5,8 @@
     />
 </p>
 
-<h1 align="center">Hi 👋, I'm Senan Qulamov</h1>
-<h3 align="center">🚀 Experienced Full-Stack Developer | Laravel, Java, JavaScript</h3>
+<h1 align="center">Hi 👋, I'm Senan</h1>
+<h3 align="center">🚀 Experienced Software Developer with a strong background in designing and developing applications using PHP (Laravel), Java and JavaScript</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=senanqulamov&label=Profile%20views&color=0e75b6&style=flat" alt="senanqulamov" />
