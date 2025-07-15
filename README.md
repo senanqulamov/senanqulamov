@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://assets.ppy.sh/topic-covers/6320/c7490f9d8cba26dcd7fb34f08a211156e311d57ffd470edff68a92832d3a1fd8.gif" 
-       alt="Animated Banner" 
-       width="30%"
-    />
-</p>
-
 <h1 align="center">Hi 👋, I'm Senan</h1>
 <h3 align="center">🚀 Experienced Software Developer with a strong background in designing and developing applications using PHP (Laravel), Java and JavaScript</h3>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="25%"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=senanqulamov&label=Profile%20views&color=0e75b6&style=flat" alt="senanqulamov" />
@@ -52,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,typescript,react,nextjs,nodejs,mysql,postgres,mongodb,html,css,tailwind,docker,git,figma,xd,vscode,intellij,idea" />
 </p>
 
+
 ---
 
 ### 📊 GitHub Stats
@@ -66,3 +64,8 @@
 
 
 ---
+
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</div>
