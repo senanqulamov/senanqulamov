@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=senanqulamov" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=senanqulamov&theme=flat&column=6&margin-w=5" alt="GitHub Trophy" />
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=senanqulamov&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
