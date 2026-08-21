@@ -15,8 +15,8 @@
 
 ---
 
-- 🔭 Currently working on: [Ofisait](https://ofisait.az)
-- 🧠 Learning: Java + Spring Boot
+- 🔭 Currently working on: [48Team](https://48team.space)
+- 🧠 Learning: DevOps
 - 🤝 Collaborating on: [48Team](https://github.com/senanqulamov/48Team)
 - 🛠️ Need help with: [BidBary](https://github.com/senanqulamov/bidbary)
 - 🌐 Portfolio: [48team.space](https://48team.space)
