@@ -19,7 +19,7 @@
 - 🧠 Learning: DevOps
 - 🤝 Collaborating on: [48Team](https://github.com/senanqulamov/48Team)
 - 🛠️ Need help with: [BidBary](https://github.com/senanqulamov/bidbary)
-- 🌐 Portfolio: [48team.space](https://48team.space)
+- 🌐 Portfolio: [senanqulamov.com](https://senanqulamov.com)
 - 📄 Articles & Experience: [LinkedIn](https://www.linkedin.com/in/senan-qulamov/)
 - 📬 Reach me: **qulamovsenan@gmail.com**
 - 💬 Ask me about: PHP, Laravel, Java, React/Next.js, Livewire
