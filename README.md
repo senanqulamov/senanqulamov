@@ -26,7 +26,7 @@ Based in Baku, Azerbaijan. Interested in meaningful engineering roles, software 
 - **Delivery and infrastructure:** GitHub Actions, CI/CD, Docker, Linux, AWS, Cloudflare and Vercel.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,typescript,react,nextjs,nodejs,mysql,postgres,mongodb,html,css,tailwind,docker,git,figma,xd,vscode,intellij,idea" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,typescript,react,nextjs,nodejs,mysql,postgres,mongodb,html,css,tailwind,docker,git,figma,xd,vscode,idea" />
 </p>
 
 ## Selected public work
